@@ -5,7 +5,7 @@ Larave Ajax Crud with Bootstrap
 - DataTable
 - Sweet Alert
 - Custom Validation
-- API for user and education
+- API for user crud and education add and view list
 
 ### Package
 - https://sweetalert.js.org/guides/
